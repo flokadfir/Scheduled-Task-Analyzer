@@ -20,7 +20,8 @@ Download And run TaskAnalyzer.exe and chose a full scan or quick scan
 
 ## 🚨 Detections meanings
 
-**triggers:** * 
+**triggers:** 
+
 **CUSTOM ( flagged when a user makes a custom event filter or condition)** 
 
 **TIME ( flagged when a user sets it to trigger at a specific date/time)** 
@@ -31,7 +32,8 @@ Download And run TaskAnalyzer.exe and chose a full scan or quick scan
 
 **LOGON ( same as above )**
 
-**Status:** 
+------------------------
+~Status~
 
 **READY ( waiting for set trigger )** 
 
